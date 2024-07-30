@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Luxurious+Roman&family=Sedan+SC&display=swap');
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #FF9F66;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Sedan SC", serif;
+  text-shadow: 5px 0  15px #232931;
+  font-size: 8rem;
+  color: white;
+}
+
+p {
+  font-size: 2rem;
+  color: white  ;
+  font-family: "Gideon Roman", serif;
+}
+
+img {
+  width: 80%;
+}
+
+button{
+  color: white;
+  font-family: "Gideon Roman", serif;
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px 40px;
+}
+
+/* button{
+  margin-top: 20px;
+  padding: 18px;
+  font-family: "Gideon Roman", serif;
+  font-size: 17px;
+  background-color: #686D76;
+  color: white;
+  border-radius: 6%;
+} */
+
+footer {
+  margin-top: 50px;
+  color: #31304D;
+  text-align: center;
+  font-family: 'Fraunces', cursive;
+
+}
